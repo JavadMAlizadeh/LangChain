@@ -1,0 +1,16 @@
+movieId,released,title,actors,director,genres,imdbRating
+1,10/14/94,The Shawshank Redemption,Tim Robbins|Morgan Freeman,Frank Darabont,Drama,9.3
+2,3/24/72,The Godfather,Marlon Brando|Al Pacino|James Caan,Francis Ford Coppola,Crime|Drama,9.2
+3,7/18/08,The Dark Knight,Christian Bale|Heath Ledger|Aaron Eckhart,Christopher Nolan,Action|Crime|Drama,9
+4,12/20/74,The Godfather Part II,Al Pacino|Robert De Niro|Robert Duvall,Francis Ford Coppola,Crime|Drama,9
+5,4/10/57,12 Angry Men,Henry Fonda|Lee J. Cobb|Martin Balsam,Sidney Lumet,Crime|Drama,9
+6,12/15/93,Schindler's List,Liam Neeson|Ralph Fiennes|Ben Kingsley,Steven Spielberg,Biography|Drama|History,8.9
+7,12/17/03,The Lord of the Rings: The Return of the King,Elijah Wood|Viggo Mortensen|Ian McKellen,Peter Jackson,Action|Adventure|Drama,8.9
+8,10/14/94,Pulp Fiction,John Travolta|Uma Thurman|Samuel L. Jackson,Quentin Tarantino,Crime|Drama,8.9
+9,12/19/01,The Lord of the Rings: The Fellowship of the Ring,Elijah Wood|Ian McKellen|Orlando Bloom,Peter Jackson,Action|Adventure|Drama,8.8
+10,12/23/66,"The Good, the Bad and the Ugly",Clint Eastwood|Eli Wallach|Lee Van Cleef,Sergio Leone,Western,8.8
+11,7/6/94,Forrest Gump,Tom Hanks|Robin Wright|Gary Sinise,Robert Zemeckis,Drama|Romance,8.8
+12,10/15/99,Fight Club,Brad Pitt|Edward Norton|Meat Loaf,David Fincher,Drama,8.8
+13,7/16/10,Inception,Leonardo DiCaprio|Joseph Gordon-Levitt|Elliot Page,Christopher Nolan,Action|Adventure|Sci-Fi,8.8
+14,12/18/02,The Lord of the Rings: The Two Towers,Elijah Wood|Ian McKellen|Viggo Mortensen,Peter Jackson,Action|Adventure|Drama,8.7
+15,3/31/99,The Matrix,Keanu Reeves|Laurence Fishburne|Carrie-Anne Moss,Lana Wachowski|Lilly Wachowski,Action|Sci-Fi,8.7
